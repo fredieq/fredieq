@@ -1,0 +1,9 @@
+us:admin
+   xnmigzwu_admin 
+pw:adminbd987654321
+
+bd : xnmigzwu_motores
+
+concrete
+us : admin
+pw: admin123
